@@ -44,7 +44,7 @@ body, html {
 
 #future-work {
     position: absolute;
-    top: 400px; /* Adjust the bottom position as needed */
+    top: 350px; /* Adjust the bottom position as needed */
     left: 50%;
     transform: translateX(-50%);
     text-align: center;
@@ -68,7 +68,7 @@ body, html {
 
 #april {
     position: absolute;
-    top: 700px; /* Adjust the bottom position as needed */
+    top: 500px; /* Adjust the bottom position as needed */
     left: 50%;
     transform: translateX(-50%);
     text-align: center;
